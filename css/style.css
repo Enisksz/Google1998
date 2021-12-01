@@ -1,0 +1,42 @@
+body{
+    text-align: center;
+    font-family:'Times New Roman', Times, serif;
+}
+footer{
+    display:inline-block;
+    margin-top: 20px;
+}
+
+input{
+    border: 1px solid black;
+}
+p{
+    margin:1px;
+}
+ 
+.search{
+    background-color: #EEEE;
+    width: 1300px;
+    height: 80px;
+    margin-left: 7.2%;
+}
+.box1{
+    width: 29.3%;
+    margin-left: 7.2%;
+    background-color: #7EE5DA;
+}
+.box2{
+    width: 16%;
+    background-color: #70CCC2;
+}
+
+.box3{
+    width: 40%;
+    background-color: #62B3AA;
+}
+
+.box1, .box2, .box3{
+    float: left;
+    margin-right: 2px;
+    height: 80px;
+}
